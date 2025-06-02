@@ -803,6 +803,12 @@ button.btn-veja-mais:active {
   .info-mapa-horarios {
     text-align: center;
   }
+  a[href^="tel"], .info-mapa-fone, .info-mapa-fone a {
+  color: #fff !important;
+  text-decoration: none !important;
+  font-weight: bold;
+  cursor: pointer;
+}
 
   .accordion-title {
     font-size: 1rem;
