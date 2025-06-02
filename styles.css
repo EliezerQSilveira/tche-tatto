@@ -703,6 +703,9 @@ button.btn-veja-mais:active {
   max-width: 100vw;
   overflow-x: hidden !important;
   }
+    .bg-video {
+    display: none !important;
+  }
 
   .accordions-grid {
     grid-template-columns: 1fr;
@@ -756,6 +759,9 @@ button.btn-veja-mais:active {
   overflow-x: hidden !important;
     
 }
+  .bg-video {
+    display: none !important;
+  }
   .hero {
     height: auto;
     padding: 4rem 1rem;
@@ -823,6 +829,9 @@ button.btn-veja-mais:active {
   max-width: 100vw;
   overflow-x: hidden !important;
   }
+    .bg-video {
+    display: none !important;
+  }
   .hero h1 {
     font-size: 1.4rem;
   }
@@ -871,6 +880,10 @@ button.btn-veja-mais:active {
     flex-direction: column;
     align-items: center;
     padding: 0.5rem 0.3rem;
+
+  }
+    .bg-video {
+    display: none !important;
   }
   nav ul {
     flex-wrap: wrap;
